@@ -84,5 +84,6 @@ blink();
 idf_component_register(SRCS "main.c" "blink.c"
 												INCLUDE_DIRS "." )
 ```
+add button documentation and code then next time look into interrupts and adc
 
 ## TAKE INPUT SENSOR VALUES
